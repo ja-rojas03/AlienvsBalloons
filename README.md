@@ -2,6 +2,8 @@
 
 Javier Rojas y Edilio García
 
+<img src="./game/galuchi.jpeg" alt="galuchi" width=450 />
+
 # Caracteristicas
 
 - Se muestra el escenario, el personaje y el HUD.
