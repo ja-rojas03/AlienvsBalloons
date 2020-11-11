@@ -1,0 +1,4 @@
+#Wed Nov 11 06:55:46 BOT 2020
+base.0=C\:\\Users\\Javier\\Desktop\\PUCMM\\Prog-Aplicada\\AlienvsBalloon\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
